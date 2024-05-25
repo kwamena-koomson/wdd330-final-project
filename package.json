@@ -1,0 +1,19 @@
+{
+  "name": "wdd330-final-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwamena-koomson/wdd330-final-project.git"
+  },
+  "author": "Kwamena Koomson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwamena-koomson/wdd330-final-project/issues"
+  },
+  "homepage": "https://github.com/kwamena-koomson/wdd330-final-project#readme"
+}
