@@ -1,3 +1,13 @@
 body{
   background: #0caf79;
 }
+
+
+
+
+/* FOOTER */
+footer {
+  background-color: #0bc415;
+  text-align: center;
+  padding: 2rem;
+}
