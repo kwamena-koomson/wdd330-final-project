@@ -79,13 +79,10 @@ button:hover {
     background-color: #555;
 }
 
-/* Footer styles */
+/* FOOTER */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #06aa50;
+    color: white;
     text-align: center;
-    padding: 1rem;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
+    padding: 0.8rem;
 }

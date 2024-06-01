@@ -4,6 +4,5 @@ document.getElementById('contact-form').addEventListener('submit', function(even
     // Display the confirmation message
     document.getElementById('confirmation-message').style.display = 'block';
     
-    // Optionally, you can reset the form fields after submission
-    // document.getElementById('contact-form').reset();
+    
 });
